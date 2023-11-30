@@ -11,4 +11,4 @@ The purpose of this study was to design a clamp to immobilize the hand of patien
 
 <h3 align="left">Awards</h3>
 1. 2nd place in oral presentation<br/><br/>2. 1st place in poster presentation
-<img align="left" alt="Coding" width="200" src="https://github.com/jackleong23/Undergraduate-Research/blob/main/387488394_762830098988012_7536614954733984683_n.jpg">
+<img align="left" alt="Coding" width="300" src="https://github.com/jackleong23/Undergraduate-Research/blob/main/undergraduate%20research%20competition%20award%20certificates.png">
